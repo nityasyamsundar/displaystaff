@@ -1,0 +1,11 @@
+#Last,First,ID,Title
+Alpha,Alice,101,CEO
+#Next line is a bad record, on purpose
+Foo,Frank,0,No Title,Just here to throw off your program
+Beta,Bob,201,Operations Manager
+Gamma,Gene,301,Senior Assembler
+Delta,Dana,202,HR Manager
+Epsilon,Earl,302,Assembler
+Iota,Ida,303,Junior Assembler
+#Next line is a bad record, on purpose
+Omega,Orville,401I,Intern
